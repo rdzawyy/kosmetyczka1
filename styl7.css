@@ -25,3 +25,9 @@ header{
     width: 60%;
     height: 500px;
 }
+footer{
+    background-color: #9958a5;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
